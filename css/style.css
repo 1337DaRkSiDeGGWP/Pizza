@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    background: #fff;
+    font-family: 'Montserrat';
+}
+
+header {
+    background: url(../images/pizzafon.jpg) no-repeat center / cover;
+    padding: 30px 0 256px;
+}
+
+nav h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    padding: 17px 26px;
+}
+
+nav p {
+    color: #fff;
+    font-size: 16px;
+    padding: 17px 26px;
+    background: #68bf3b;
+    border-radius: 25px;
+margin-left: 50px   ;
+}
+
+nav h2 {
+    font-size: 24px;
+    color: #fff;
+    padding: 17px 26px;
+}
+
+.texthead {
+    padding-top: 180px;
+}
+
+.texthead h2 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "montserrat";
+}
+
+.texthead h3 {
+    font-size: 72px;
+    font-weight: 900;
+    color: #fff;
+    padding-top: 35px;
+
+}
+
+.texthead h4 {
+    font-size: 18px;
+    color: #fff;
+    padding-top: 39px;
+}
+
+.container h5 {
+    color: #fff;
+    font-size: 16px;
+    padding: 19px 53px;
+    background: #55ad0d;
+    display: inline-block;
+    margin-top: 53px;
+    border-radius: 25px;
+}
+
+.textsec h2 {
+    font-size: 36px;
+    color: #68bf3b;
+    font-weight: bold;
+}
+
+.textsec {
+    margin-top: 109px;
+}
+
+.devka {
+    margin-top: 82px;
+}
+
+.textsec p {
+    line-height: 36px;
+    color: #bdbdbd;
+    font-size: 18px;
+    margin-top: 60px;
+}
+
+.textsec h3 {
+
+    font-size: 24px;
+    color: #bdbdbd;
+    font-weight: bold;
+
+}
+
+.textsec img {
+    margin-left: 62px;
+
+}
+
+.menu {
+    font-size: 36px;
+    color: #68cd16;
+    font-weight: bold;
+    margin-top: 67px;
+    margin-bottom: 50px;
+}
+
+.textsec2 h2 {
+    font-size: 30px;
+    color: #a6a6a6;
+    font-weight: bold;
+    margin-top: 29px;
+    margin-bottom: 30px;
+}
+
+.textsec2 p {
+    font-size: 14px;
+    color: #a6a6a6;
+    line-height: 25px;
+    margin-bottom: 0 !important;
+}
+
+.zakaz h4 {
+    font-size: 30px;
+    color: #a6a6a6;
+    margin-top: 46px;
+    font-weight: bold;
+}
+
+.zakaz h4 span {
+    font-size: 18px;
+}
+
+.zakaz p {
+    padding: 18px 31px;
+    background: #72b613;
+    border-radius: 25px;
+   
+    margin-top: 28px;
+}
+
+.textsec3 h2 {
+    font-size: 20px;
+    color: #a6a6a6;
+    font-weight: bold;
+
+
+}
+
+.textsec3 {
+    text-align: center;
+    margin-top: 28px;
+}
+
+.textsec3 p {
+    margin-top: 20px;
+    color: #a6a6a6;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+.footernav{
+  padding-top: 30px;
+}
+.footernav h1{
+color:#ffffff;
+font-size: 24px;
+font-weight: bold;
+padding: 17px 26px;
+}
+.footernav h2{
+font-size: 24px;
+color:#ffffff ;
+padding: 17px 26px;
+}
+.footernav p{
+    color: #fff;
+    font-size: 16px;
+    padding: 17px 26px;
+    background: #68bf3b;
+    border-radius: 25px;
+}
+footer p{
+font-size: 16px;
+color: #ffffff;
+    text-align: center;
+padding-bottom: 50px ;
+    margin-bottom: 0 !important;
+    padding-top: 50px;
+}
+
